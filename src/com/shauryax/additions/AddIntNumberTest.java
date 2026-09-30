@@ -1,4 +1,4 @@
-package com.shauryax.addition;
+package com.shauryax.additions;
 
 public class AddIntNumberTest {
 
