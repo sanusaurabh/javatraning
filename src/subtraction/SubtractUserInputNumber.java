@@ -1,8 +1,8 @@
-package division;
+package subtraction;
 
 import java.util.Scanner;
 
-public class DivisionUserInputNumber {
+public class SubtractUserInputNumber {
 
     public static void main(String[] args) {
 
@@ -13,7 +13,7 @@ public class DivisionUserInputNumber {
         System.out.print("Enter 2nd number = ");
         int y = scan.nextInt();
 
-        int division = x / y ;
-        System.out.println("division of user input is "+ division);
+        int subtraction = x - y ;
+        System.out.println("subtraction of user input is "+ subtraction);
     }
 }

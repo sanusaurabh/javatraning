@@ -4,13 +4,13 @@ public class DivisionTestclassNumber {
 
     public static void main(String[] args) {
 
-        DivisionTestclassNumber  TestClass = new DivisionTestclassNumber();
-        TestClass.Division();
+        DivisionTestclassNumber  testClass = new DivisionTestclassNumber();
+        testClass.division();
     }
-    public void Division() {
+    public void division() {
         int number1 = 200;
         int number2 = 2;
-        int Division = number1 / number2;
-        System.out.println("division of number is "+ Division);
+        int division = number1 / number2;
+        System.out.println("division of number is "+ division);
     }
 }
