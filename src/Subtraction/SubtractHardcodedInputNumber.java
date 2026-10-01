@@ -1,4 +1,4 @@
-package Subtraction;
+package subtraction;
 
 public class SubtractHardcodedInputNumber {
 
