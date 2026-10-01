@@ -1,8 +1,8 @@
-package modulusWithUserInput;
+package moduluswithuserInput;
 
 import java.util.Scanner;
 
-public class modulusDoubleUserInput {
+public class ModulusDoubleUserInput {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

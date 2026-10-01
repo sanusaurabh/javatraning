@@ -1,9 +1,9 @@
-package ModulusTestClass;
+package modulustest;
 
-public class modulusLongTestClass {
+public class ModulusLongTest {
     public static void main(String[] args) {
 
-        modulusLongClass modulusLongClass = new modulusLongClass();
+        ModulusLong modulusLongClass = new ModulusLong();
 
         modulusLongClass.modulus();
         modulusLongClass.modulusByReturnValues();

@@ -1,9 +1,9 @@
-package ModulusTestClass;
+package modulustest;
 
-public class modulusFloatTestClass {
+public class ModulusFloatTest {
     public static void main(String[] args) {
 
-        modulusFloatClass modulusFloatClass = new modulusFloatClass();
+        ModulusFloat modulusFloatClass = new ModulusFloat();
         modulusFloatClass.modulus();
         modulusFloatClass.modulusByParameter(345365f, 56f);
         modulusFloatClass.modulusByParametersAndReturnValues(345365f, 56f);

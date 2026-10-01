@@ -1,16 +1,17 @@
-package modulusWithUserInput;
+package moduluswithuserInput;
 
 import java.util.Scanner;
 
-public class modulusFloatUserInput {
+public class ModulusLongUserInput {
     public static void main(String[] args) {
+        Scanner sc  = new Scanner(System.in);
 
-        Scanner sc = new Scanner(System.in);
         System.out.println("Enter the first number = ");
-        float num1 = sc.nextFloat();
+        long num1 =  sc.nextLong();
         System.out.println("Enter the second number = ");
-        float num2 = sc.nextFloat();
-        float modulus = num1 % num2;
+        long num2 =  sc.nextLong();
+        long modulus = num1 % num2;
+
         System.out.println("The modulus is " + modulus);
     }
 }

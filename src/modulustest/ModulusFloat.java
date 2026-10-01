@@ -1,6 +1,6 @@
-package ModulusTestClass;
+package modulustest;
 
-public class modulusFloatClass {
+public class ModulusFloat {
 
     public void modulus(){
         float num1 = 453.4f;

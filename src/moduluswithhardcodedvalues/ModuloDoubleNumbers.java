@@ -1,6 +1,6 @@
-package modulusWithHardCodedValues;
+package moduluswithhardcodedvalues;
 
-public class moduloDoubleNumbers {
+public class ModuloDoubleNumbers {
     public static void main(String[] args) {
 
         double num1 = 54345.33;

@@ -1,6 +1,6 @@
-package ModulusTestClass;
+package modulustest;
 
-public class modulusDoubleClass {
+public class ModulusDouble {
 
     public void modulus(){
         double num1 = 5556.43;

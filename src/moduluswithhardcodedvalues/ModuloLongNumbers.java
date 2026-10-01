@@ -1,6 +1,6 @@
-package modulusWithHardCodedValues;
+package moduluswithhardcodedvalues;
 
-public class moduloLongNumbers {
+public class ModuloLongNumbers {
     public static void main(String[] args) {
 
         long a = 45356l;

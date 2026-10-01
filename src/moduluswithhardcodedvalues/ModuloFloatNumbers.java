@@ -1,6 +1,6 @@
-package modulusWithHardCodedValues;
+package moduluswithhardcodedvalues;
 
-public class moduloFloatNumbers {
+public class ModuloFloatNumbers {
     public static void main(String[] args) {
 
         float num1 = 565.43f;

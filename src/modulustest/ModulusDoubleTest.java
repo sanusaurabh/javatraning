@@ -1,8 +1,8 @@
-package ModulusTestClass;
+package modulustest;
 
-public class modulusDouubleTestClass {
+public class ModulusDoubleTest {
     public static void main(String[] args) {
-        modulusDoubleClass modulusDoubleClass = new modulusDoubleClass();
+        ModulusDouble modulusDoubleClass = new ModulusDouble();
         modulusDoubleClass.modulus();
         modulusDoubleClass.modulusByReturnValues();
         modulusDoubleClass.modulusByParameters(45556.67, 4545.88);

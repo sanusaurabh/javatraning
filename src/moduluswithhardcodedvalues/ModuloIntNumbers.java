@@ -1,6 +1,6 @@
-package modulusWithHardCodedValues;
+package moduluswithhardcodedvalues;
 
-public class moduloIntNumbers {
+public class ModuloIntNumbers {
     public static void main(String[] args) {
         int a = 60;
         int b = 23;

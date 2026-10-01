@@ -1,6 +1,6 @@
-package ModulusTestClass;
+package modulustest;
 
-public class modulusLongClass {
+public class ModulusLong {
     public void modulus(){
         long num1 = 54747567l;
         long num2 = -5474l;
