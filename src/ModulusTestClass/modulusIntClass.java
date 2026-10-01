@@ -1,6 +1,6 @@
 package ModulusTestClass;
 
-public class ModulusIntClass {
+public class modulusIntClass {
     public void modulus(){
         int num1 = 657;
         int num2 = 67;

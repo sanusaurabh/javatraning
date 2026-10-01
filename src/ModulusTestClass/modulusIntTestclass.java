@@ -1,8 +1,8 @@
 package ModulusTestClass;
 
-public class ModulusIntTestclass {
+public class modulusIntTestclass {
     public static void main(String[] args) {
-        ModulusIntClass modulusIntclass = new ModulusIntClass();
+        modulusIntClass modulusIntclass = new modulusIntClass();
 
         modulusIntclass.modulus();
         modulusIntclass.modulusByParameter(637,67);
