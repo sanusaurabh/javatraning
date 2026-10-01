@@ -8,12 +8,12 @@ public class DivisionUserInputNumber {
 
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter 1st number = ");
-        int x = scan.nextInt();
+        int number1 = scan.nextInt();
 
         System.out.print("Enter 2nd number = ");
-        int y = scan.nextInt();
+        int number2 = scan.nextInt();
 
-        int division = x / y ;
+        int division = number1 / number2 ;
         System.out.println("division of user input is "+ division);
     }
 }
