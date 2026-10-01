@@ -1,6 +1,6 @@
 package multipication;
 
-public class intMul {
+public class IntMul {
     public static void main(String[] args){
 
         int a = 25;
