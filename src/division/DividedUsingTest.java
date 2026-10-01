@@ -2,12 +2,12 @@ package division;
 
 import java.util.Scanner;
 
-public class DividedUsingTestClassMethod {
+public class DividedUsingTest {
     public static void main(String[] args) {
-        DividedUsingTestClassMethod method = new DividedUsingTestClassMethod();
-        method.TestClass();
+        DividedUsingTest method = new DividedUsingTest();
+        method.Test();
     }
-    public void TestClass() {
+    public void Test() {
         Scanner scan = new Scanner(System.in);
 
         System.out.print("Enter you first digits\t");
