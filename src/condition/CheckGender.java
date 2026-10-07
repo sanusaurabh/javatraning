@@ -2,7 +2,7 @@ package condition;
 
 import java.util.Scanner;
 
-public class checkGender{
+public class CheckGender {
 
     public static void main(String[] args) {
 
