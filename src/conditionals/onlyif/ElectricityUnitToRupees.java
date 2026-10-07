@@ -1,4 +1,4 @@
-package conditionals;
+package conditionals.onlyif;
 
 import java.util.Scanner;
 /*For first 50 units Rs. 0.50/unit

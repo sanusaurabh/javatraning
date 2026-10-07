@@ -1,4 +1,4 @@
-package conditionals;
+package conditionals.onlyif;
 
 import java.util.Scanner;
 
@@ -29,6 +29,5 @@ public class WeekDayWithNumber {
         if(day == 7){
             System.out.println("The day of the week is Saturday");
         }
-
     }
 }
