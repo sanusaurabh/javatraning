@@ -1,4 +1,4 @@
-package conditionals.onlyif;
+package conditionals.ifandelse;
 
 import java.util.Scanner;
 
