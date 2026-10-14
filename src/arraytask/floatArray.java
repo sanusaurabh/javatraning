@@ -23,6 +23,10 @@ public class floatArray {
         value1[1] = 56.87f;
         value1[2] = 65.87f;
 
+        System.out.println(value1[0]);
+        System.out.println(value1[1]);
+        System.out.println(value1[2]);
+
         float sum1 = value1[0] + value1[1] + value1[2];
         System.out.println(sum1);
 
