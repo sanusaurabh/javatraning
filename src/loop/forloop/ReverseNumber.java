@@ -8,6 +8,9 @@ public class ReverseNumber {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number of terms you want to reverse print in:");
         int n = sc.nextInt();
+        for(int i = n; i > 0; i-- ){
+            System.out.println(i);
+        }
 
     }
 }
